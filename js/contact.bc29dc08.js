@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmodule11"]=self["webpackChunkmodule11"]||[]).push([[353],{6705:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var u=t(6768);const l={class:"contact"};function a(n,e){return(0,u.uX)(),(0,u.CE)("div",l,[...e[0]||(e[0]=[(0,u.Lk)("h1",null,"Contact Information",-1),(0,u.Lk)("p",null,"Name: Nathaniel Mobley",-1),(0,u.Lk)("p",null,"Email: ncmobley@my.waketech.edu",-1)])])}var c=t(1241);const o={},r=(0,c.A)(o,[["render",a]]);var s=r}}]);
+//# sourceMappingURL=contact.bc29dc08.js.map
